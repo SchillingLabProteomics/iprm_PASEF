@@ -1,1 +1,3 @@
 # iprm_PASEF
+
+This script is designed to analyze MS/MS spectra of peptides measured with iprm-PASE. It calculates the theoretical masses of the peptide and its fragment ions, matches them with experimental data, and visualizes the results. It is written in python and uses jupyter notebook for interactive analysis. The user needs to provide the peptide sequence, experimental data file, and tolerance for matching. The script will output the calculated masses, matched fragment ions, and a plot of the MS/MS spectrum with annotated peaks. If user input is required, it will be indicated in the comments. The script is designed to be flexible and can handle different peptide sequences and modifications.****
